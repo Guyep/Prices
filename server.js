@@ -1,5 +1,6 @@
 const express = require('express'); // import express
 const app = express();
+console.log(`Starting Nofar`);
 
 // return the main page of the application (static)
 app.get('/', function (req, res) {
