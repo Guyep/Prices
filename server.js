@@ -12,6 +12,6 @@ app.get('/', function (req, res) {
 
 // starts a port and host
 // making the localhost for the connections to listen to incoming requests from a client
-app.listen(port, () => {
+app.listen(3000, () => {
   console.log(`Server running at http://${hostname}:${process.env.PORT || port}/`);
 });
