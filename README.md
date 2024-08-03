@@ -1,6 +1,6 @@
 # Prices
 
-### Project Overview
+### Project Overview 
 This project compares products prices in supermarkets over time, with the aim of building the cheapest shopping basket.  
 In addition, this app allowing efficient and convenient access to public information regarding product prices and promotions in Israeli supermarkets.
 
